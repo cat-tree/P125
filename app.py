@@ -41,7 +41,7 @@ mappingData = dispatch.prepare_data_for_mapping(cfs_data) # Process for Mapping 
 
 # Retrieve twitter data and set related variables
 bearer_token = BEARER_TOKEN
-twitter_search_days = 2
+twitter_search_days = 6
 keywords = "san francisco wildfire lang:en"
 twitter_data = twitter.retrieve_tweets(twitter_search_days, bearer_token, keywords)
 
@@ -57,15 +57,6 @@ app.layout = dbc.Container(
             ], width={'size': 6, 'offset': 0, 'order': 1},
                    #style={ "height": "100%"}
                     ), # end of first column
-            # dbc.Col([  # first column on second row
-            #     html.H5('Climate Data', className='text-center'),
-            #     dcc.Dropdown(id='climate_dropdown',
-            #                  value='temp',
-            #                  options=[{'label': ctype, 'value': ctype}
-            #                           for ctype in climate_features]),
-            #     dcc.Graph(id='weatherChart'),
-            #     html.Hr(),
-            # ], width={'size': 3, 'offset': 0, 'order': 1}, style={ "height": "50%"}),  # width first column on second row
             dbc.Col([  # second column on second row
                 html.H5('Avg Response Time Past Week', className='text-center'),
                 dcc.Graph(id='responsesChart',
