@@ -1,0 +1,757 @@
+﻿call_number,unit_id,call_type
+220170012,91,Medical Incident
+220170012,E13,Medical Incident
+220170004,59,Medical Incident
+220170001,KM112,Medical Incident
+220173335,T03,Citizen Assist / Service Call
+220172760,E36,Alarms
+220171929,E07,Alarms
+220171060,SCRT4,Medical Incident
+220170404,B02,Alarms
+220170214,E35,Medical Incident
+220170214,KM113,Medical Incident
+220170210,72,Medical Incident
+220170197,94,Medical Incident
+220170197,E02,Medical Incident
+220170196,B02,Alarms
+220170192,T03,Alarms
+220170192,B02,Alarms
+220170192,E03,Alarms
+220172593,E36,Alarms
+220173163,E06,Alarms
+220172593,B02,Alarms
+220173129,T14,Medical Incident
+220173175,E03,Medical Incident
+220172590,T12,Citizen Assist / Service Call
+220172383,T02,Alarms
+220171105,B02,Alarms
+220170356,T01,Alarms
+220172593,E03,Alarms
+220171799,B08,Alarms
+220171051,B02,Alarms
+220170647,T05,Citizen Assist / Service Call
+220171279,SCRT4,Medical Incident
+220170356,E01,Alarms
+220170111,E07,Outside Fire
+220172138,E29,Outside Fire
+220170189,B01,Alarms
+220171226,T03,Alarms
+220172581,E01,Medical Incident
+220172581,T01,Medical Incident
+220172581,76,Medical Incident
+220172577,AM118,Medical Incident
+220172576,KM115,Medical Incident
+220172576,50,Medical Incident
+220172571,AM110,Medical Incident
+220172553,B03,Structure Fire
+220172553,T03,Structure Fire
+220172553,D2,Structure Fire
+220172535,78,Medical Incident
+220172519,71,Traffic Collision
+220171868,79,Medical Incident
+220171867,QRV1,Medical Incident
+220171867,65,Medical Incident
+220171864,KM110,Medical Incident
+220171864,E07,Medical Incident
+220171485,AM110,Medical Incident
+220171475,70,Medical Incident
+220171459,E42,Medical Incident
+220171459,59,Medical Incident
+220171446,SCRT1,Medical Incident
+220171446,59,Medical Incident
+220171446,SCRT2,Medical Incident
+220171424,RC4,Medical Incident
+220171424,E43,Medical Incident
+220171424,73,Medical Incident
+220171416,E41,Medical Incident
+220171416,70,Medical Incident
+220171234,T01,Citizen Assist / Service Call
+220171232,KM101,Medical Incident
+220171214,E21,Alarms
+220171148,QRV1,Medical Incident
+220171147,70,Medical Incident
+220171141,E38,Medical Incident
+220171141,83,Medical Incident
+220171140,SCRT2,Medical Incident
+220171134,SCRT4,Medical Incident
+220171113,79,Medical Incident
+220171105,T06,Alarms
+220170808,59,Medical Incident
+220170807,KM115,Medical Incident
+220170791,KM111,Medical Incident
+220170791,E28,Medical Incident
+220170727,T03,Alarms
+220170727,B02,Alarms
+220170727,E03,Alarms
+220170579,E37,Structure Fire
+220170579,E07,Structure Fire
+220170579,D3,Structure Fire
+220170491,RC1,Medical Incident
+220170491,95,Medical Incident
+220170491,B01,Medical Incident
+220170491,E01,Medical Incident
+220170491,RS1,Medical Incident
+220170491,T01,Medical Incident
+220170491,QRV1,Medical Incident
+220170486,E02,Medical Incident
+220170486,93,Medical Incident
+220170321,RC4,Medical Incident
+220170321,E42,Medical Incident
+220170321,KM113,Medical Incident
+220170313,E23,Medical Incident
+220170313,84,Medical Incident
+220170312,E33,Medical Incident
+220170250,E05,Medical Incident
+220170250,AM120,Medical Incident
+220170096,59,Medical Incident
+220170096,T06,Medical Incident
+220170096,RC3,Medical Incident
+220170096,E21,Medical Incident
+220170096,B05,Medical Incident
+220170074,E36,Outside Fire
+220172852,SCRT5,Other
+220172852,EMS6B,Other
+220172843,89,Medical Incident
+220172843,E06,Medical Incident
+220172843,50,Medical Incident
+220172608,E36,Medical Incident
+220172608,RC1,Medical Incident
+220172608,KM108,Medical Incident
+220172560,T17,Alarms
+220172560,E44,Alarms
+220172553,B01,Structure Fire
+220172553,KM110,Structure Fire
+220172451,KM101,Medical Incident
+220172448,E01,Medical Incident
+220172448,94,Medical Incident
+220172434,KM110,Medical Incident
+220172425,E01,Medical Incident
+220172425,68,Medical Incident
+220172412,E14,Odor (Strange / Unknown)
+220172263,RB1,Other
+220172263,E08,Other
+220172263,89,Other
+220171870,93,Medical Incident
+220171870,E17,Medical Incident
+220171868,E12,Medical Incident
+220171844,76,Medical Incident
+220171174,KM111,Medical Incident
+220171166,E38,Medical Incident
+220171166,81,Medical Incident
+220171166,E05,Medical Incident
+220171161,E10,Alarms
+220171161,T10,Alarms
+220171161,B04,Alarms
+220171148,89,Medical Incident
+220171105,E36,Alarms
+220171021,E23,Medical Incident
+220171012,E16,Smoke Investigation (Outside)
+220170970,SCRT2,Other
+220170908,65,Medical Incident
+220170908,E08,Medical Incident
+220170885,84,Medical Incident
+220170885,E03,Medical Incident
+220170880,T10,Alarms
+220170880,B05,Alarms
+220170880,E10,Alarms
+220170874,KM111,Medical Incident
+220170263,KM112,Medical Incident
+220170260,61,Medical Incident
+220170260,KM113,Medical Incident
+220173330,93,Medical Incident
+220173329,86,Medical Incident
+220173322,T06,Other
+220173322,B05,Other
+220173322,E24,Other
+220173312,BLS803,Medical Incident
+220173305,54,Medical Incident
+220173304,KM112,Medical Incident
+220173267,85,Medical Incident
+220173267,E01,Medical Incident
+220173264,KM113,Medical Incident
+220173263,AM116,Medical Incident
+220173260,73,Medical Incident
+220173248,E29,Outside Fire
+220173245,58,Medical Incident
+220173233,AM120,Medical Incident
+220173232,E03,Outside Fire
+220173225,52,Medical Incident
+220173225,E01,Medical Incident
+220173216,T03,Citizen Assist / Service Call
+220173213,72,Medical Incident
+220173213,E36,Medical Incident
+220173193,E11,Outside Fire
+220173186,78,Medical Incident
+220173180,E11,Outside Fire
+220173175,94,Medical Incident
+220173163,B02,Alarms
+220173163,T06,Alarms
+220173154,SCRT6,Medical Incident
+220173138,67,Medical Incident
+220173137,BLS803,Medical Incident
+220173132,B08,Alarms
+220173132,E39,Alarms
+220173132,T12,Alarms
+220173129,E31,Medical Incident
+220173129,E34,Medical Incident
+220173129,87,Medical Incident
+220173121,E22,Smoke Investigation (Outside)
+220173116,94,Medical Incident
+220173104,RC2,Medical Incident
+220173104,E34,Medical Incident
+220173104,76,Medical Incident
+220173102,E14,Medical Incident
+220173102,55,Medical Incident
+220173080,AM118,Medical Incident
+220173079,AM116,Medical Incident
+220173076,73,Medical Incident
+220173076,E07,Medical Incident
+220173047,E29,Medical Incident
+220173047,54,Medical Incident
+220173046,85,Medical Incident
+220173046,E03,Medical Incident
+220173046,E41,Medical Incident
+220173046,T03,Medical Incident
+220173043,58,Medical Incident
+220173043,E02,Medical Incident
+220173043,E28,Medical Incident
+220173036,68,Medical Incident
+220173036,E33,Medical Incident
+220173027,93,Medical Incident
+220173023,58,Medical Incident
+220173023,67,Medical Incident
+220173016,RC1,Medical Incident
+220173016,E03,Medical Incident
+220173016,KM104,Medical Incident
+220173001,E01,Outside Fire
+220172991,86,Medical Incident
+220172991,E31,Medical Incident
+220172987,78,Medical Incident
+220172987,E02,Medical Incident
+220172962,KM112,Medical Incident
+220172960,KM113,Medical Incident
+220172960,E36,Medical Incident
+220172939,E35,Medical Incident
+220172939,52,Medical Incident
+220172924,T19,Citizen Assist / Service Call
+220172919,E33,Citizen Assist / Service Call
+220172916,KM113,Medical Incident
+220172916,E36,Medical Incident
+220172909,BLS803,Medical Incident
+220172887,E03,Alarms
+220172887,B02,Alarms
+220172887,T03,Alarms
+220172874,KM104,Medical Incident
+220172874,T05,Medical Incident
+220172869,E05,Medical Incident
+220172869,RC2,Medical Incident
+220172869,KM108,Medical Incident
+220172856,67,Medical Incident
+220172853,E48,Medical Incident
+220172853,93,Medical Incident
+220172853,RA48,Medical Incident
+220172843,EMS6B,Medical Incident
+220172835,SCRT6,Medical Incident
+220172831,E07,Smoke Investigation (Outside)
+220172819,E05,Outside Fire
+220172803,E36,Medical Incident
+220172803,KM110,Medical Incident
+220172799,B07,Gas Leak (Natural and LP Gases)
+220172799,E34,Gas Leak (Natural and LP Gases)
+220172792,T02,Citizen Assist / Service Call
+220172784,58,Medical Incident
+220172784,E01,Medical Incident
+220172761,85,Medical Incident
+220172760,B02,Alarms
+220172760,T01,Alarms
+220172757,B04,Gas Leak (Natural and LP Gases)
+220172757,E16,Gas Leak (Natural and LP Gases)
+220172753,E01,Medical Incident
+220172753,87,Medical Incident
+220172747,AM126,Medical Incident
+220172747,54,Medical Incident
+220172747,E14,Medical Incident
+220172747,RC1,Medical Incident
+220172746,86,Medical Incident
+220172730,BLS803,Medical Incident
+220172726,E35,Medical Incident
+220172726,58,Medical Incident
+220172703,E17,Traffic Collision
+220172703,AM122,Traffic Collision
+220172702,E38,Medical Incident
+220172702,52,Medical Incident
+220172702,E16,Medical Incident
+220172679,T19,Medical Incident
+220172677,87,Medical Incident
+220172659,AM116,Medical Incident
+220172657,RC3,Medical Incident
+220172657,73,Medical Incident
+220172657,E06,Medical Incident
+220172647,E05,Outside Fire
+220172642,B09,Alarms
+220172642,B06,Alarms
+220172642,T15,Alarms
+220172642,E15,Alarms
+220172632,T15,Alarms
+220172632,E39,Alarms
+220172632,B09,Alarms
+220172621,E10,Medical Incident
+220172621,RC2,Medical Incident
+220172621,AM118,Medical Incident
+220172593,T03,Alarms
+220172590,B07,Citizen Assist / Service Call
+220172590,E22,Citizen Assist / Service Call
+220172590,RS1,Citizen Assist / Service Call
+220172584,67,Medical Incident
+220172584,57,Medical Incident
+220172581,RS1,Medical Incident
+220172571,RC2,Medical Incident
+220172571,E12,Medical Incident
+220172569,AM120,Medical Incident
+220172567,93,Medical Incident
+220172565,RS1,Medical Incident
+220172565,E36,Medical Incident
+220172565,87,Medical Incident
+220172562,RC1,Medical Incident
+220172562,KM110,Medical Incident
+220172562,E02,Medical Incident
+220172560,B10,Alarms
+220172553,93,Structure Fire
+220172553,T01,Structure Fire
+220172553,RS1,Structure Fire
+220172553,E41,Structure Fire
+220172553,E03,Structure Fire
+220172553,E01,Structure Fire
+220172519,E03,Traffic Collision
+220172512,AM120,Medical Incident
+220172477,SCRT5,Medical Incident
+220172473,T10,Elevator / Escalator Rescue
+220172451,E13,Medical Incident
+220172409,E15,Electrical Hazard
+220172404,65,Medical Incident
+220172402,B09,Alarms
+220172402,E43,Alarms
+220172402,T15,Alarms
+220172400,SCRT2,Medical Incident
+220172383,E41,Alarms
+220172383,B01,Alarms
+220172381,E25,Outside Fire
+220172369,E07,Outside Fire
+220172361,E02,Outside Fire
+220172357,52,Medical Incident
+220172353,E44,Traffic Collision
+220172353,81,Traffic Collision
+220172349,91,Medical Incident
+220172333,KM115,Medical Incident
+220172332,95,Medical Incident
+220172329,E23,Medical Incident
+220172329,E34,Medical Incident
+220172329,79,Medical Incident
+220172315,E51,Medical Incident
+220172315,89,Medical Incident
+220172303,KM108,Medical Incident
+220172291,E15,Medical Incident
+220172291,91,Medical Incident
+220172263,RWC2,Other
+220172263,RWC1,Other
+220172263,E35,Other
+220172263,FB3,Other
+220172263,E51,Other
+220172263,T16,Other
+220172263,B07,Other
+220172263,E16,Other
+220172260,BLS803,Medical Incident
+220172243,T15,Citizen Assist / Service Call
+220172242,E03,Outside Fire
+220172223,E35,Medical Incident
+220172223,KM110,Medical Incident
+220172212,E41,Alarms
+220172212,B01,Alarms
+220172212,T03,Alarms
+220172209,65,Medical Incident
+220172208,AM112,Medical Incident
+220172173,SCRT4,Medical Incident
+220172162,83,Medical Incident
+220172162,E39,Medical Incident
+220172140,E19,Medical Incident
+220172140,73,Medical Incident
+220172121,E10,Other
+220172104,AM112,Medical Incident
+220172104,RC3,Medical Incident
+220172095,54,Medical Incident
+220172088,50,Medical Incident
+220172088,E18,Medical Incident
+220172068,T03,Citizen Assist / Service Call
+220172053,E15,Medical Incident
+220172053,70,Medical Incident
+220172034,AM106,Medical Incident
+220172034,T07,Medical Incident
+220172034,B02,Medical Incident
+220172034,E07,Medical Incident
+220172034,RC3,Medical Incident
+220172009,AM110,Traffic Collision
+220172009,71,Traffic Collision
+220172009,E05,Traffic Collision
+220172005,AM116,Medical Incident
+220171990,BLS803,Medical Incident
+220171987,E35,Medical Incident
+220171987,KM111,Medical Incident
+220171982,RC1,Medical Incident
+220171982,E13,Medical Incident
+220171982,AM102,Medical Incident
+220171948,E02,Medical Incident
+220171948,E28,Medical Incident
+220171948,AM118,Medical Incident
+220171929,B06,Alarms
+220171929,T07,Alarms
+220171921,KM110,Medical Incident
+220171921,E11,Medical Incident
+220171904,52,Other
+220171904,SCRT3,Other
+220171898,SCRT2,Medical Incident
+220171884,SCRT5,Other
+220171839,E05,Medical Incident
+220171839,AM110,Medical Incident
+220171830,78,Medical Incident
+220171830,70,Medical Incident
+220171824,SCRT4,Medical Incident
+220171824,SCRT2,Medical Incident
+220171813,81,Medical Incident
+220171807,E43,Medical Incident
+220171807,RC4,Medical Incident
+220171807,59,Medical Incident
+220171804,SCRT4,Medical Incident
+220171799,E39,Alarms
+220171799,T19,Alarms
+220171792,AM102,Medical Incident
+220171792,RC1,Medical Incident
+220171792,E03,Medical Incident
+220171775,E08,Medical Incident
+220171775,AM116,Medical Incident
+220171770,E07,Alarms
+220171770,T07,Alarms
+220171770,B02,Alarms
+220171763,SCRT3,Medical Incident
+220171748,93,Medical Incident
+220171748,E17,Medical Incident
+220171727,SCRT2,Medical Incident
+220171710,E36,Medical Incident
+220171710,KM115,Medical Incident
+220171689,83,Medical Incident
+220171680,E39,Medical Incident
+220171680,94,Medical Incident
+220171680,T15,Medical Incident
+220171668,89,Medical Incident
+220171668,E36,Medical Incident
+220171668,E01,Medical Incident
+220171664,95,Medical Incident
+220171664,E33,Medical Incident
+220171662,E15,Medical Incident
+220171662,73,Medical Incident
+220171649,SCRT1,Other
+220171638,E13,Medical Incident
+220171638,58,Medical Incident
+220171627,E19,Medical Incident
+220171627,68,Medical Incident
+220171611,54,Medical Incident
+220171565,57,Medical Incident
+220171562,SCRT1,Other
+220171556,SCRT3,Other
+220171555,QRV1,Medical Incident
+220171555,91,Medical Incident
+220171547,E03,Medical Incident
+220171547,KM115,Medical Incident
+220171547,RC1,Medical Incident
+220171547,SORT1,Medical Incident
+220171544,KM110,Medical Incident
+220171528,50,Medical Incident
+220171528,E18,Medical Incident
+220171511,E10,Medical Incident
+220171511,AM106,Medical Incident
+220171493,E43,Medical Incident
+220171493,KM111,Medical Incident
+220171491,SCRT4,Medical Incident
+220171408,54,Medical Incident
+220171408,SORT1,Medical Incident
+220171408,E41,Medical Incident
+220171405,BLS803,Medical Incident
+220171401,E07,Medical Incident
+220171401,78,Medical Incident
+220171376,SCRT3,Medical Incident
+220171359,71,Medical Incident
+220171359,SCRT3,Medical Incident
+220171359,SCRT5,Medical Incident
+220171354,KM108,Medical Incident
+220171352,84,Medical Incident
+220171345,SCRT2,Medical Incident
+220171335,T05,Citizen Assist / Service Call
+220171326,54,Medical Incident
+220171326,QRV1,Medical Incident
+220171318,AM102,Medical Incident
+220171293,SCRT1,Medical Incident
+220171290,QRV1,Medical Incident
+220171290,KM115,Medical Incident
+220171281,71,Medical Incident
+220171281,E32,Medical Incident
+220171274,95,Medical Incident
+220171270,93,Medical Incident
+220171251,84,Medical Incident
+220171251,94,Medical Incident
+220171250,65,Medical Incident
+220171247,68,Medical Incident
+220171247,E31,Medical Incident
+220171247,94,Medical Incident
+220171226,B01,Alarms
+220171226,E41,Alarms
+220171221,AM126,Medical Incident
+220171219,57,Medical Incident
+220171214,B05,Alarms
+220171214,T05,Alarms
+220171207,E06,Medical Incident
+220171207,KM110,Medical Incident
+220171202,T16,Alarms
+220171202,E16,Alarms
+220171202,B04,Alarms
+220171199,AM112,Medical Incident
+220171174,E03,Medical Incident
+220171174,RC1,Medical Incident
+220171174,SORT1,Medical Incident
+220171132,SCRT5,Medical Incident
+220171115,AM126,Medical Incident
+220171110,E12,Medical Incident
+220171110,50,Medical Incident
+220171099,E14,Medical Incident
+220171099,78,Medical Incident
+220171095,KM115,Medical Incident
+220171085,SCRT3,Medical Incident
+220171079,E05,Other
+220171061,SCRT4,Other
+220171060,QRV1,Medical Incident
+220171060,RC1,Medical Incident
+220171060,SORT1,Medical Incident
+220171060,73,Medical Incident
+220171052,78,Medical Incident
+220171051,E07,Alarms
+220171051,T07,Alarms
+220171021,AM110,Medical Incident
+220170968,59,Medical Incident
+220170965,T05,Citizen Assist / Service Call
+220170963,T10,Alarms
+220170963,B04,Alarms
+220170963,E10,Alarms
+220170961,T12,Alarms
+220170961,B05,Alarms
+220170961,E21,Alarms
+220170956,E37,Outside Fire
+220170955,65,Medical Incident
+220170955,SCRT4,Medical Incident
+220170955,E02,Medical Incident
+220170955,KM110,Medical Incident
+220170955,SORT1,Medical Incident
+220170948,E09,Outside Fire
+220170942,E06,Medical Incident
+220170942,95,Medical Incident
+220170926,AM112,Medical Incident
+220170923,E07,Medical Incident
+220170923,93,Medical Incident
+220170874,QRV1,Medical Incident
+220170868,E14,Medical Incident
+220170868,78,Medical Incident
+220170839,54,Medical Incident
+220170835,68,Medical Incident
+220170826,SCRT2,Medical Incident
+220170820,SCRT4,Medical Incident
+220170814,65,Medical Incident
+220170811,B02,Alarms
+220170811,E07,Alarms
+220170811,T07,Alarms
+220170778,84,Medical Incident
+220170737,76,Medical Incident
+220170721,83,Medical Incident
+220170718,73,Medical Incident
+220170716,E18,Medical Incident
+220170716,94,Medical Incident
+220170716,E23,Medical Incident
+220170714,E44,Medical Incident
+220170714,65,Medical Incident
+220170710,79,Medical Incident
+220170705,68,Medical Incident
+220170704,70,Medical Incident
+220170704,E28,Medical Incident
+220170684,AM104,Medical Incident
+220170676,QRV1,Medical Incident
+220170676,T13,Medical Incident
+220170676,93,Medical Incident
+220170670,SCRT3,Other
+220170669,57,Medical Incident
+220170669,E42,Medical Incident
+220170647,T03,Citizen Assist / Service Call
+220170635,58,Medical Incident
+220170633,T03,Alarms
+220170633,E03,Alarms
+220170633,B02,Alarms
+220170632,AM102,Medical Incident
+220170622,E08,Medical Incident
+220170622,68,Medical Incident
+220170614,E29,Medical Incident
+220170614,AM106,Medical Incident
+220170603,E03,Outside Fire
+220170603,E41,Outside Fire
+220170596,E17,Medical Incident
+220170596,81,Medical Incident
+220170588,E03,Outside Fire
+220170579,RS2,Structure Fire
+220170579,T09,Structure Fire
+220170579,E09,Structure Fire
+220170579,T07,Structure Fire
+220170579,B10,Structure Fire
+220170579,B06,Structure Fire
+220170579,58,Structure Fire
+220170573,KM111,Medical Incident
+220170573,SORT1,Medical Incident
+220170573,QRV1,Medical Incident
+220170531,54,Medical Incident
+220170531,E44,Medical Incident
+220170531,E42,Medical Incident
+220170525,QRV1,Medical Incident
+220170525,AM104,Medical Incident
+220170512,KM102,Medical Incident
+220170503,E35,Medical Incident
+220170503,95,Medical Incident
+220170486,RC1,Medical Incident
+220170484,E17,Medical Incident
+220170484,RC4,Medical Incident
+220170484,76,Medical Incident
+220170473,54,Medical Incident
+220170468,SCRT1,Medical Incident
+220170468,RC7,Medical Incident
+220170448,59,Medical Incident
+220170448,T03,Medical Incident
+220170448,E05,Medical Incident
+220170441,78,Medical Incident
+220170441,E01,Medical Incident
+220170440,73,Medical Incident
+220170440,E36,Medical Incident
+220170439,E05,Medical Incident
+220170439,E03,Medical Incident
+220170439,T03,Medical Incident
+220170439,83,Medical Incident
+220170428,E16,Medical Incident
+220170428,AM102,Medical Incident
+220170425,94,Medical Incident
+220170423,QRV1,Medical Incident
+220170423,68,Medical Incident
+220170420,B10,Outside Fire
+220170420,T17,Outside Fire
+220170420,E17,Outside Fire
+220170418,E19,Medical Incident
+220170415,70,Medical Incident
+220170415,E42,Medical Incident
+220170415,E32,Medical Incident
+220170409,76,Medical Incident
+220170409,E13,Medical Incident
+220170409,RC1,Medical Incident
+220170404,E36,Alarms
+220170404,T03,Alarms
+220170402,E11,Traffic Collision
+220170392,T03,Medical Incident
+220170392,E03,Medical Incident
+220170392,E02,Medical Incident
+220170392,76,Medical Incident
+220170392,AM104,Medical Incident
+220170391,68,Medical Incident
+220170390,E15,Medical Incident
+220170386,E01,Medical Incident
+220170386,AM102,Medical Incident
+220170385,T01,Citizen Assist / Service Call
+220170375,84,Medical Incident
+220170375,E12,Medical Incident
+220170363,E38,Medical Incident
+220170363,AM106,Medical Incident
+220170360,95,Medical Incident
+220170360,E36,Medical Incident
+220170356,B03,Alarms
+220170355,T14,Vehicle Fire
+220170355,E31,Vehicle Fire
+220170353,E23,Outside Fire
+220170352,E09,Medical Incident
+220170352,87,Medical Incident
+220170348,94,Medical Incident
+220170348,RC3,Medical Incident
+220170348,E37,Medical Incident
+220170342,E05,Medical Incident
+220170342,78,Medical Incident
+220170336,E03,Medical Incident
+220170336,KM112,Medical Incident
+220170333,93,Medical Incident
+220170333,E35,Medical Incident
+220170331,E07,Medical Incident
+220170331,68,Medical Incident
+220170327,58,Medical Incident
+220170327,E01,Medical Incident
+220170312,E15,Medical Incident
+220170312,72,Medical Incident
+220170300,T15,Other
+220170286,58,Medical Incident
+220170286,E35,Medical Incident
+220170285,RS1,Medical Incident
+220170285,67,Medical Incident
+220170283,E01,Medical Incident
+220170283,95,Medical Incident
+220170276,94,Citizen Assist / Service Call
+220170276,T03,Citizen Assist / Service Call
+220170276,61,Citizen Assist / Service Call
+220170271,87,Medical Incident
+220170270,RC1,Medical Incident
+220170270,KM113,Medical Incident
+220170270,E36,Medical Incident
+220170263,E08,Medical Incident
+220170253,85,Medical Incident
+220170245,59,Medical Incident
+220170243,95,Medical Incident
+220170243,RC1,Medical Incident
+220170243,E01,Medical Incident
+220170226,E06,Medical Incident
+220170226,58,Medical Incident
+220170225,KM112,Medical Incident
+220170189,T02,Alarms
+220170189,E28,Alarms
+220170187,68,Medical Incident
+220170187,E33,Medical Incident
+220170177,E26,Medical Incident
+220170177,KM112,Medical Incident
+220170174,AM120,Medical Incident
+220170174,E01,Medical Incident
+220170163,67,Medical Incident
+220170157,E08,Medical Incident
+220170157,91,Medical Incident
+220170143,E06,Outside Fire
+220170134,E01,Medical Incident
+220170134,RC1,Medical Incident
+220170134,95,Medical Incident
+220170121,E01,Medical Incident
+220170121,85,Medical Incident
+220170061,91,Medical Incident
+220170061,E02,Medical Incident
+220170061,T13,Medical Incident
+220170061,72,Medical Incident
+220170053,E08,Alarms
+220170053,T08,Alarms
+220170053,B03,Alarms
+220170046,67,Medical Incident
+220170045,E16,Medical Incident
+220170045,KM112,Medical Incident
+220170041,E43,Medical Incident
+220170041,AM120,Medical Incident
+220170036,E19,Medical Incident
+220170036,91,Medical Incident
+220170033,KM113,Medical Incident
+220170031,E41,Medical Incident
+220170031,E03,Medical Incident
+220170031,AM120,Medical Incident
+220170020,SCRT6,Medical Incident
+220170017,61,Medical Incident
+220170017,E01,Medical Incident
+220170012,61,Medical Incident
+220170004,E37,Medical Incident
+220170001,E08,Medical Incident
